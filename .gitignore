@@ -1,0 +1,33 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ===== AI / ML =====
+*.pt
+*.pth
+*.ckpt
+*.onnx
+models/
+data/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Environment / secrets =====
+.env
+
+# ===== Frontend =====
+node_modules/
+dist/
+
+# ===== OS =====
+.DS_Store
+
+# ===== Editor =====
+.vscode/
