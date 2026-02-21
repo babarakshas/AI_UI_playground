@@ -1,5 +1,10 @@
-## AI_UI_playground
+# AI UI Playground
+
 Learning project to build a locally hosted AI web UI using FastAPI and a minimal frontend.
+
+## Project Structure
+
+```text
 ai-ui-playground/
 │
 ├── backend/
