@@ -1,4 +1,9 @@
-# ===== Python =====
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.DS_Store# ===== Python =====
 __pycache__/
 *.pyc
 *.pyo
